@@ -1,10 +1,10 @@
 # Gender-Classification-project
 
-#Objective:-
+# Objective:-
 
 Predict the user gender based on some useful information.
 
-#Data Description-
+# Data Description-
 
 This dataset contains 7 features and a label column.
 
